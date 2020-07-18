@@ -46,3 +46,4 @@ def analyze(request):
     
 def navigation(request):
     return render(request, 'navbar.html')
+
