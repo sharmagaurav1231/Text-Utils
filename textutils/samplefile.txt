@@ -1,0 +1,2 @@
+This is the code
+used for sample git checking.
